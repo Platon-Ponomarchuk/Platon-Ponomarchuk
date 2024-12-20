@@ -20,9 +20,5 @@ Tech Stack:
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Webpack-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vite-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-orange?style=for-the-badge" />
 </p>
-
-GitHub Stats:
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Platon-Ponomarchuk)](https://git.io/streak-stats)
